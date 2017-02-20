@@ -1,3 +1,4 @@
+# simple command interpreter that simply responds to Arithmetic commands
 from __future__ import print_function, division
 import cmd
 
